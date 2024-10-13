@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Other common files to ignore
+*.log
+*.sqlite3
+
+commands.txt
