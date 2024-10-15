@@ -12,4 +12,6 @@ __pycache__/
 *.log
 *.sqlite3
 
+# Files
 commands.txt
+08-bag_of_words/sms_spam_collection/SMSSpamCollection
