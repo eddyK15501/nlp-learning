@@ -19,3 +19,4 @@ commands.txt
 11-ann_classification/label_encoder_gender.pkl
 11-ann_classification/ohe_geography.pkl
 11-ann_classification/scaler.pkl
+11-ann_classification/logs
