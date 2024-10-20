@@ -20,3 +20,4 @@ commands.txt
 11-ann_classification/ohe_geography.pkl
 11-ann_classification/scaler.pkl
 11-ann_classification/logs
+11-ann_classification/model.h5
