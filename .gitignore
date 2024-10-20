@@ -16,3 +16,6 @@ __pycache__/
 commands.txt
 08-bag_of_words/sms_spam_collection/SMSSpamCollection
 11-ann_classification/Churn_Modelling.csv
+11-ann_classification/label_encoder_gender.pkl
+11-ann_classification/ohe_geography.pkl
+11-ann_classification/scaler.pkl
